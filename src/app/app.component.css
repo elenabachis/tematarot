@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://wallpapers.com/images/featured/witchy-aesthetic-27unxjlcrc77um2v.jpg");
+    background-size: cover; 
+    background-position: center; 
+  }
+
+  #website-title {
+    color: yellow; /* Change the color to your desired color */
+}
+
+.toolbar {
+  background-color: #e7d619;
+  color: white;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  margin-right: auto; 
+}
+
+.menu {
+  display: flex;
+}
+
+.menu a {
+  color: rgb(3, 3, 3);
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+.spacer {
+  flex: 1; /* This will push the menu items to the right */
+}
+
+
+
